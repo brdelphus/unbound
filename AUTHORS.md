@@ -1,7 +1,9 @@
 # Repman Helm chart
 
-## Maintainer
+## Original Maintainer
 
 - Tomas Hulata - PIXELFEDERATION s.r.o.
 
 ## Contributors
+
+- Rodrigo Graeff 
