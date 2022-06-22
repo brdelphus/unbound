@@ -5,9 +5,9 @@ name: unbound
 version: 0.0.6
 appVersion: 0.0.1
 sources:
-- https://github.com/pixelfederation/unbound/
+- https://github.com/brdelphus/unbound/
 - http://unbound.nlnetlabs.nl/svn/
 - https://github.com/kubernetes/contrib/tree/master/exec-healthz
 maintainers:
-- name: Tomas Hulata
-  email: thulata@pixelfederation.com
+- name: Rodrigo Graeff
+  email: delphus@delphus.org
