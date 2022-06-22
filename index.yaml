@@ -15,7 +15,7 @@ entries:
     - http://unbound.nlnetlabs.nl/svn/
     - https://github.com/kubernetes/contrib/tree/master/exec-healthz
     urls:
-    - https://github.com/pixelfederation/unbound/releases/download/unbound-0.0.6/unbound-0.0.6.tgz
+    - https://github.com/brdelphus/unbound/releases/download/unbound-0.0.6/unbound-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.1
@@ -31,6 +31,6 @@ entries:
     - http://unbound.nlnetlabs.nl/svn/
     - https://github.com/kubernetes/contrib/tree/master/exec-healthz
     urls:
-    - https://github.com/pixelfederation/unbound/releases/download/unbound-0.0.5/unbound-0.0.5.tgz
+    - https://github.com/brdelphus/unbound/releases/download/unbound-0.0.5/unbound-0.0.5.tgz
     version: 0.0.5
 generated: "2022-03-07T22:31:53.505751356Z"
